@@ -33,4 +33,24 @@ I Identified and removed duplicates, removed blank cells from the data and made 
    
 The data analyzed shows that the total number of subscribers in each subject is 18618711 (Business Finance 15.9%), 1063148 (Graphic Design 9.0%), 846689 (Musical Instruments 7.2%), 7981935 (Web Development 67.9%)
 
+![total subscriber](https://github.com/user-attachments/assets/dd5c6503-60ba-4c96-94f5-be1ef612337b)
+
+2. How does the average content duration/price/number of students vary across different subjects?
+
+The analysis shows web development has the highest average content duration/price/number of subscribers compared to other subjects(courses)
+
+![average content](https://github.com/user-attachments/assets/5bf24357-8090-4cb5-9f0f-39e30151a837)
+
+3. How many courses are free and paid for each subject?
+
+This chart  shows that Web Development has the highest number of free and paid courses at 134 and 1,069 respectively 
+
+
+
+4. What is the average price of web development courses at different levels?
+
+The analysis shows us that the average price of web development courses at intermediate level is the highest followed by beginner level.
+
+
+
 
