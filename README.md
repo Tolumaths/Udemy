@@ -29,28 +29,51 @@ I Identified and removed duplicates, removed blank cells from the data and made 
 
 # Findings & Insights
 
-1.  What are the total numbers of subscribers in each subject?
-   
+**1.  What are the total numbers of subscribers in each subject?**   
 The data analyzed shows that the total number of subscribers in each subject is 18618711 (Business Finance 15.9%), 1063148 (Graphic Design 9.0%), 846689 (Musical Instruments 7.2%), 7981935 (Web Development 67.9%)
 
 ![total subscriber](https://github.com/user-attachments/assets/dd5c6503-60ba-4c96-94f5-be1ef612337b)
 
-2. How does the average content duration/price/number of students vary across different subjects?
+**2. How does the average content duration/price/number of students vary across different subjects?**
 
 The analysis shows web development has the highest average content duration/price/number of subscribers compared to other subjects(courses)
 
 ![average content](https://github.com/user-attachments/assets/5bf24357-8090-4cb5-9f0f-39e30151a837)
 
-3. How many courses are free and paid for each subject?
+**3. How many courses are free and paid for each subject?**
 
 This chart  shows that Web Development has the highest number of free and paid courses at 134 and 1,069 respectively 
 
 
 
-4. What is the average price of web development courses at different levels?
-
+**4. What is the average price of web development courses at different levels?**
 The analysis shows us that the average price of web development courses at intermediate level is the highest followed by beginner level.
 
 
 
+**5. What are the 20 most popular courses?**
+
+The data show that web development courses ranked highest  among the top 20 most popular courses
+
+
+# Summary of Findings:
+
+**Top 5 courses:** 
+- Almost 68% of subscribers come from Web Development and the top 5 courses are for
+Web development as well 
+
+**Business Finance vs Web Development:** 
+- Business Finance and web development have almost equal number of total courses (1155 vs 1203), but web development course are almost 2x in content duration and have 4x the average subscribers 
+
+**Course Pricing:**
+- Web Development has the highest average course price with its intermediate level being the highest  followed by Business Finance.
+
+
+# Recommendations
+
+**Product Recommendations:**
+- Focus on getting more paid course by creators in web development 
+
+**Marketing Recommendations:**
+- Our data tells us that our web development courses are most popular and people are willing to pay for it. Marketing and advertising campaigns should therefore market web development courses so as to increase revenue.
 
