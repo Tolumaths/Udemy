@@ -44,16 +44,20 @@ The analysis shows web development has the highest average content duration/pric
 
 This chart  shows that Web Development has the highest number of free and paid courses at 134 and 1,069 respectively 
 
+![Courses Free or Paid](https://github.com/user-attachments/assets/ee7a6417-e04f-4c1c-80cc-70539c64110b)
 
 
 **4. What is the average price of web development courses at different levels?**
 The analysis shows us that the average price of web development courses at intermediate level is the highest followed by beginner level.
 
+![Average Price of Web Development courses](https://github.com/user-attachments/assets/8934ee25-2082-4d8b-b8db-1166fdb22e54)
 
 
 **5. What are the 20 most popular courses?**
 
 The data show that web development courses ranked highest  among the top 20 most popular courses
+
+![20 most popular courses](https://github.com/user-attachments/assets/91db7815-9ca3-4ae3-92a5-495502eff2f3)
 
 
 # Summary of Findings:
